@@ -23096,9 +23096,11 @@
  //////////////////////////////*/
 @media (min-width: 992px) {
   .facts-section {
-    padding-bottom: 190px;
+    padding-bottom: 500px;
   }
 }
+
+
 
 .fact-text {
   color: #333333;
@@ -23279,6 +23281,7 @@
   border-bottom: 1px solid #e5e5e5;
   padding-top: 70px;
   padding-bottom: 50px;
+  
 }
 
 @media (min-width: 768px) {
