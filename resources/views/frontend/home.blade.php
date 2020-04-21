@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title', '流浪之家')
+@section('title', '浪浪城市')
 
 @section('content')
 

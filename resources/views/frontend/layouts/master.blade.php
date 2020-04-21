@@ -19,6 +19,7 @@
     <!-- fonts -->
     <link rel="stylesheet" href="{{ asset('fonts/ep-icon-fonts/css/style.css') }}">
     <link rel="stylesheet" href="{{ asset('fonts/fontawesome-5/css/all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('fonts/HanyiSentyTang.woff') }}">
     <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="{{ asset('css/settings.css') }}">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">

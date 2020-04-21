@@ -21658,6 +21658,11 @@
 /* /////////////////////////// 
     Header Area
 //////////////////////////// */
+.Stray {
+  font-size: 30px;
+  font-family: fantasy;
+}
+
 @media (min-width: 768px) {
   .site-header {
     padding-top: 20px;
@@ -22233,13 +22238,7 @@
            Course section
 ///////////////////////////////*/
 .course-section {
-  padding-top: 70px;
-}
-
-@media (min-width: 768px) {
-  .course-section {
-    padding-top: 140px;
-  }
+  padding-top: 20px;
 }
 
 .course-shape-3 {
@@ -23094,18 +23093,20 @@
 /*////////////////////////////// 
         Facts
  //////////////////////////////*/
+.facts-section {
+  padding-bottom: 500px;
+}
+
 @media (min-width: 992px) {
   .facts-section {
     padding-bottom: 500px;
   }
 }
 
-
-
 .fact-text {
   color: #333333;
   font-family: "Karla", sans-serif;
-  font-size: 24px;
+  font-size: 50px;
   font-weight: 400;
   letter-spacing: -1px;
 }
@@ -23281,7 +23282,6 @@
   border-bottom: 1px solid #e5e5e5;
   padding-top: 70px;
   padding-bottom: 50px;
-  
 }
 
 @media (min-width: 768px) {

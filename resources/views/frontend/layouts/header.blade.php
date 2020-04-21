@@ -5,7 +5,7 @@
                 <div class="col-sm-3 col-6 col-lg-2 col-xl-2 order-lg-1">
                   <!-- Brand Logo -->
                     <div class="brand-logo">
-                        <a href="">流浪之家</a>
+                        <span class="Stray">浪浪城市</span>
                         <!-- <a href=""><img src="{{ asset('image/main-logo.png ') }}" alt="" /></a> -->
                     </div>
                 </div>
@@ -19,36 +19,36 @@
                     <div class="main-navigation">
                         <ul class="main-menu">
                             <li class="menu-item has-dropdown">
-                                <a href="#features">送養</a>
-                                    <ul class="menu-dropdown">
+                                <a href="deliver">送養</a>
+                                    <!-- <ul class="menu-dropdown">
                                         <li class="single-item">
                                             <a href="">
                                             <h3>貓</h3> 
-                                            <!-- <p>Best for Mobile App Presentation</p> -->
+                                            <p>Best for Mobile App Presentation</p>
                                             </a>
                                         </li>
                                         <li class="single-item">
                                             <a href="">
                                                 <h3>狗</h3>
-                                                <!-- <p>Best for Mobile App Presentation</p> -->
+                                                <p>Best for Mobile App Presentation</p>
                                             </a> 
                                         </li>
                                         <li class="single-item">
                                             <a href="">
                                                 <h3>其他</h3>
-                                            <!-- <p>Best for Mobile App Presentation</p> -->
+                                            <p>Best for Mobile App Presentation</p>
                                         </a> 
                                         </li>
-                                        <!-- <li class="single-item">
+                                        <li class="single-item">
                                             <a href="">
                                                 <h3> SaaS Subscription</h3>
                                             <p>Best for Mobile App Presentation</p>
                                             </a> 
-                                        </li> -->
-                                    </ul>
+                                        </li>
+                                    </ul> -->
                                 </li>
-                            <li class="menu-item "><a href="#features">領養</a></li>
-                    
+                            <li class="menu-item "><a href="adoption">領養</a></li>
+                            <li class="menu-item "><a href="rescue">救援申請</a></li>
                             <!-- <li class="menu-item"><a href="#">Student stories</a></li> -->
                             </ul>
                     </div>

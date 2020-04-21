@@ -21,6 +21,14 @@ Route::get('/', function () {
     return view('frontend.home');
 })->name('home');
 
+Route::get('/deliver', function () {
+    return view('frontend.deliver');
+})->name('deliver');
+
+Route::get('/test', function () {
+    return view('frontend.test');
+})->name('test');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');

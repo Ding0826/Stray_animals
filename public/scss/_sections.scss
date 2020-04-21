@@ -60,6 +60,12 @@
 /* /////////////////////////// 
     Header Area
 //////////////////////////// */
+
+.Stray{
+  font-size:30px;
+  font-family: fantasy;
+}
+
 .site-header{
   @include tablet{
     padding-top: 20px;
@@ -502,7 +508,8 @@
            Course section
 ///////////////////////////////*/ 
 .course-section {
-  @include section-padding-top;
+  // @include section-padding-top;
+  padding-top: 20px;
 }
 .course-shape-3{
   top: auto;
@@ -1119,15 +1126,16 @@
  //////////////////////////////*/ 
 .facts-section {
   @include desktops{
-    padding-bottom: 190px;
+    padding-bottom: 500px;
   }
+  padding-bottom: 500px;
 }
 
 
 .fact-text {
   color: #333333;
   font-family: $primary-font;
-  font-size: 24px;
+  font-size: 50px;
   font-weight: 400;
   letter-spacing: -1px;
 }
